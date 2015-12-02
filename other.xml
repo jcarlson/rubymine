@@ -1,0 +1,46 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/wsdl/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/wsdl/soap/" />
+    <ignored-resource url="http://webservices.manheim.com/tws/esb" />
+  </component>
+  <component name="RubyCucumber" number="6" string0="calabash-android" string1="calabash-cucumber" string2="cucumber-api-steps" string3="factory_girl" string4="json_spec" string5="rails3-jquery-autocomplete" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

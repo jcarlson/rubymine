@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="apib" type="Markdown" />
+      <mapping pattern=".rspec.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
+      <mapping ext="keep" type="PLAIN_TEXT" />
+      <mapping pattern="ticker" type="Ruby" />
+      <mapping pattern="loop" type="Ruby" />
+      <mapping pattern=".simplecov" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
